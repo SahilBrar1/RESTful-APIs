@@ -1,4 +1,5 @@
 # RESTful-APIs
 
 # Screenshot
-![image](https://github.com/user-attachments/assets/a2d4218c-f1df-4f66-9dd2-0b48b31e30c6)
+![image](https://github.com/user-attachments/assets/0a4617c6-6fbd-4173-ba1e-ee321eee0f94)
+
